@@ -1,0 +1,5 @@
+AUC on fold 1 : 0.602899
+AUC on fold 2 : 0.680214
+AUC on fold 3 : 0.724913
+AUC on fold 4 : 0.725954
+AUC on fold 5 : 0.760999
